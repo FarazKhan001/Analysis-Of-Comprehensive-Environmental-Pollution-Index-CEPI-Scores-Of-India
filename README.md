@@ -1,0 +1,2 @@
+# Analysis-Of-Comprehensive-Environmental-Pollution-Index-CEPI-Scores-Of-India
+This repository contains a data science project focused on analyzing Comprehensive Environmental Pollution Index (CEPI) scores for industrial clusters across India for the years 2009, 2011, and 2013. The project leverages Python for data cleaning, statistical analysis, and visualizations to uncover pollution trends and policy impacts.
