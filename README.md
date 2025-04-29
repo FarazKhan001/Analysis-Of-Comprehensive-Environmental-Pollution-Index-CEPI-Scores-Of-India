@@ -28,21 +28,21 @@ Monitoring CEPI scores helps policymakers:
    
 # Objectives of the Analysis 
 This project aims to analyze CEPI scores from 2009, 2011, and 2013 to: 
-## Compare Pollution Levels Across Years (2009, 2011, 2013) 
+### Compare Pollution Levels Across Years (2009, 2011, 2013) 
 • Determine if pollution has increased, decreased, or stabilized over time. 
 • Identify trends in industrial pollution. 
-## Identify Most and Least Polluted Clusters 
+### Identify Most and Least Polluted Clusters 
 • Rank industrial clusters based on CEPI scores. 
 • Highlight top 5 most polluted and bottom 5 least polluted areas each year. 
-## Analyze Impact of Moratorium Status 
+### Analyze Impact of Moratorium Status 
 • Compare CEPI scores between regions: 
 o Where moratoriums were lifted (pollution control measures implemented). 
 o Where moratoriums are still in force (ongoing pollution issues). 
 • Assess whether regulatory actions (moratoriums) improved pollution levels. 
-## Compare Pollution Levels Across States 
+### Compare Pollution Levels Across States 
 • Identify states with the highest and lowest pollution. 
 • Examine geographical patterns (e.g., landlocked vs. coastal states). 
-## Examine Score Distributions Over Time 
+### Examine Score Distributions Over Time 
 • Analyze how CEPI score distributions changed between 2009 and 2013. 
 • Determine if pollution control policies had a uniform or varied impact across clusters. 
 
