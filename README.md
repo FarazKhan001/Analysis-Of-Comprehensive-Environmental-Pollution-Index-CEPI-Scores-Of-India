@@ -51,7 +51,23 @@ This analysis will provide insights into:
 • Effectiveness of pollution control measures (e.g., moratoriums). 
 • Regions needing urgent intervention. 
 • Long-term trends in industrial pollution.
- 
+
+# Algorithms and Calculations 
+To perform the CEPI score analysis, several custom calculations were used: 
+• An average CEPI score was calculated for each cluster using values from 2009, 2011, and 2013. This 
+helped to assess the overall pollution level across years. 
+• A score change metric was derived to determine whether pollution increased or decreased in each 
+cluster over time. 
+• State-wise average scores were computed by aggregating CEPI scores for all clusters within each 
+state. This enabled a regional comparison of pollution severity.
+
+# Tools and Software Environment 
+The entire analysis was conducted using Python programming language in an interactive development 
+environment (Jupyter Notebook or Google Colab). The following open-source libraries were used: 
+• Pandas: for data loading, cleaning, and manipulation. 
+• NumPy: for numerical operations. 
+• Matplotlib and Seaborn: for data visualization.
+
 # Conclusion 
 The analysis of CEPI scores from 2009, 2011, and 2013 offers valuable insights into the environmental health 
 of India's industrial clusters. By comparing pollution levels across time, states, and regulatory interventions, 
